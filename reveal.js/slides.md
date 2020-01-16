@@ -14,24 +14,28 @@
 
 
 
-## Kotlin OverView
+## Qué es Kotlin
 
-* Lenguage de la JVM ( como Java, Scala, Groovy) 
-* Lenguage Orientado a Objetos
+* Lenguage de la JVM ( también Js y Nativo)
+* De propósito General
+* Orientado a Objetos
 * Estáticamente Tipado
+* Multiplataforma
 * Desarrollado por JetBrains desde 2010
-* Es un mejor Java
+ 
 
 
 
-## Kotlin OverView 2  
+## Características   
 
 * Funcional
+* Inferencia de Tipo
+* Soporte para evitar NullPointerException
+* Soporte Inmutabilidad   
 * Menos Ceremonial
     * Menos código, mas resultados
     * Codigo más limpio
-* Soporte para evitar NullPointerException
-* Soporte Inmutabilidad   
+* Es un mejor Java
 
 
 
@@ -40,35 +44,36 @@
 ![JetBrains](img/jetbrains.png)
 
 
+
 ## Buscando un nuevo lenguaje
 
-<<<<<<< HEAD
 * Conciso
 * Expresivo
 * Interoperable
 * Pragmático
 
 
+
 ## Candidatos
 
 * Scala
+    * compilación lenta
 	* no es fácil de aprender
 	* no es fácil de mantener 
-* Ceylon
-	* interesante y bonito lenguaje...pero con intereses contrapuestos
+    
 
 
 
-=======
->>>>>>> f36b0928b00fe6feb62f8f79756cfbce7eb2b911
 ## Evolution de Kotlin
 
 * July 2011, Kotlin unveiled by JetBrains
 * February 2012, Kotlin Open Sourced under apache 2
 * February 2016, Kotlin v1.0, released
 * May 2017, Google I/O, Kotlin was adopted by Android officially.
+* Nov 2017 Kotlin 1.2, Kotlin/JS
+* Oct 2018 Kotlin 1.3, Coroutines
+* Primavera 2020 Kotlin 1.4
 
-#
 
 
 ## Kotlin Popularity
@@ -118,4 +123,4 @@
 
 ## Let's Code!!!!
 
-
+https://play.kotlinlang.org/
