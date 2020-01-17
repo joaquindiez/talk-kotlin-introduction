@@ -33,9 +33,8 @@
 
 
 
-## JetBrains
 
-![JetBrains](img/jetbrains.png)
+![JetBrains](img/jetbrains.png)<!-- .element height="40%" width="50%" -->
 
 Note: y quienes son estos tios de JetBrains?
 
@@ -51,12 +50,11 @@ Note: y quienes son estos tios de JetBrains?
 
 
 
-## Candidates
+## Why not Scala?
 
-* Scala
-    * slow compilation
-	* not easy to learn
-	* not easy to maintain
+* slow compilation
+* not easy to learn
+* not easy to maintain
 
 Note: Scala era un buen candidato para que JetBrains lo usara como su plantaforma principal de desarrollo, sin embargo, Scala tiene sus propios problemas es un lenguaje con compilacion lenta, no es facil de aprender la curva la aprendizaje es lenta y no es nada facil de mantener, asi que en el 2010 JetBrains decide desarrollar un lenguaje propio que les permita  aprovechar que Java se estaba quedando algo viejuno, Oracle no estaba reaccionando de forma rápida en la evoluciñon del lenguaje y habia una percepción de que Java se estaba quedando como un lenguage obsoleto...algo viejo. y desde entonces esta es la evolución. 
 
@@ -94,7 +92,8 @@ Note: Scala era un buen candidato para que JetBrains lo usara como su plantaform
 
 ## Kotlin Jobs
 
-![Kotlin Jobs](img/kotlin_jobs.jpeg)
+![Kotlin Jobs](img/kotlin_jobs_1.png)<!-- .element height="40%" width="45%" style="float:left; padding:0px" -->
+![Kotlin Jobs](img/kotlin_jobs_2.png)<!-- .element height="40%" width="45%" style="float:right; padding:0px" -->
 
 
 
@@ -108,14 +107,56 @@ Note: Scala era un buen candidato para que JetBrains lo usara como su plantaform
 
 
 
-## All Kind of applications
+## but not only Android....
 
-* ServerSide (Spring Boot, Micronaut, Ktor)
-* Android Development
-* Web Development Kotlin/Js
-* DeskTop Applications, JavaFX y TornadoFx
-* Native Development ( Kotlin/Native Library)
-* Data Science ( Jupiter Notebooks) 
+
+
+## Server-Side
+
+![SpringBoot Use](img/kotlin_spring.png)<!-- .element height="40%" width="40%" style="float:left; padding:10px" -->
+![Ktor Use](img/ktor.png)<!-- .element height="25%" width="25%" style="float:right; padding:10px"-->
+![Micronaut](img/Micronaut_OG_Logo.png)<!-- .element height="40%" width="40%" style="float:left; padding:10px"-->
+![Quarkus Use](img/quarkus_logo_vertical_default.png)<!-- .element height="40%" width="40%" style="float:right; padding:10px"-->
+
+
+
+![Companies Mifratig to Kotlin Server Side](img/server_side_companies.png)<!-- .element height="80%" width="80%"-->
+
+
+
+
+## Web Development Kotlin/Js
+
+
+
+
+## DeskTop Applications, JavaFX y TornadoFx
+
+
+
+
+## Native Development/MultiPlatform
+
+![Kotlin MultiPlatform](img/mobile_multiplaform.png)<!-- .element height="60%" width="60%" style="float:right; padding:0px"-->
+* IOS
+* Android
+* MacOs
+* Linux
+* JVM
+* Windows
+* Rapsberry Pi
+
+
+
+
+## Data Science 
+
+![Jupyter Notebook](img/jupyter_notebook.png)<!-- .element height="100%" width="60%" style="float:right; padding:0px"-->
+* Data engineering
+* Data analysis
+* Machine learning
+* Visualization
+
 
 
 
@@ -123,11 +164,6 @@ Note: Scala era un buen candidato para que JetBrains lo usara como su plantaform
 
 ![Kotlin FullStack](img/kotlin_fulltack.png)
 
-
-
-## Multiplatform
-
-![Kotlin MultiPlatform](img/mobile_multiplaform.png)
 
 
 
